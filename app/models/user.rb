@@ -1,4 +1,4 @@
 class User < ApplicationRecord
     validates :name, presence:true
-    has_many :post
+    has_many :posts
 end

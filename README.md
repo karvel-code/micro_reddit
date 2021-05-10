@@ -36,7 +36,7 @@ You can also ```require hirb``` in the console and run ```Hirb.enable``` to have
 👤 **Elvis Kariithi Githinji**
 
 - GitHub: [@karvel-code](https://github.com/karvel-code)
-- LinkedIn: [@Elvis Githinji](https://www.linkedin.com/in/elvis-githinji-9a5032164/)
+- LinkedIn: [@Elvis Githinji](www.linkedin.com/in/elvisgithinji)
 
 👤 **Verissimo Henry**
 

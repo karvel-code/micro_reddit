@@ -1,0 +1,9 @@
+<h1> Hello World </h1>
+<% @posts.each do |post| %>
+    <%if user_signed_in?%>
+        <p><%= post.user.email%> </p>
+        <p><%= post.body%> </p>
+    <%else%>
+        <p><%= post.body%> </p>
+    <%end%>
+<%end%>
